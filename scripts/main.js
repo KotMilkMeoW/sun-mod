@@ -1,4 +1,4 @@
  Planets.sun.accessible = true;
-Vars.maxSchematicSize = 500;
-Vars.maxLoadoutSchematicPad = 15;
+Vars.maxSchematicSize = 64;
+Vars.maxLoadoutSchematicPad = 10;
 
