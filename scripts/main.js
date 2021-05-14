@@ -1,2 +1,2 @@
  Planets.sun.accessible = true
-Vars.maxTextLength = 90000
+Vars.maxTextLength = 900009999999999999999999999999999
