@@ -1,4 +1,4 @@
  Planets.sun.accessible = true
-Vars.maxSchematicSize = 1000
+Vars.Vars.maxSchematicSize = 1000
 
 
